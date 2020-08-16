@@ -48,4 +48,4 @@ let main argv =
 
         printfn "%s\n----" (evaluateResult input)
         
-    0 // return an integer exit code
+    0 
